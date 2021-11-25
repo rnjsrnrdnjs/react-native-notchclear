@@ -71,6 +71,7 @@ export default function App() {
 ---
 
 android, ios
+
 ![Screenshot_20211125-152201_Expo Go](https://user-images.githubusercontent.com/49832278/143393011-ea3c548d-0984-47d0-a7b6-0bde51aa17a4.jpg), ![IMG-1148](https://user-images.githubusercontent.com/49832278/143393029-06132d46-7268-4c0c-9b15-929c93750609.png)
 
 ```js
