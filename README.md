@@ -64,7 +64,10 @@ import { StyleSheet, Text, View } from "react-native";
 
 import { NotchView, NotchProvider } from "react-native-notchclear";
 export default function App() {
-  return <NotchProvider>//Just add additional code here</NotchProvider>;
+  return (
+  <NotchProvider>
+  //Just add additional code here
+  </NotchProvider>);
 }
 ```
 
