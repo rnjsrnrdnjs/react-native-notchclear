@@ -148,6 +148,7 @@ You can do this by adding the edges={["top"]} option.
 ---
 
 android, ios
+
 ![Screenshot_20211125-152250_Expo Go](https://user-images.githubusercontent.com/49832278/143393104-c86562e8-dfdd-4c3c-97ac-28f54f1ec8d5.jpg), ![IMG-1150](https://user-images.githubusercontent.com/49832278/143393111-208d79b0-2257-497a-b222-95e0a9568146.png)
 
 ```js
